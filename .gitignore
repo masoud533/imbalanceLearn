@@ -168,8 +168,10 @@ cython_debug/
 # for csv file 
 *.csv
 
->>>>>>> 8c56ead (some change)
->>>>>>> 0d3cfba (some change)
+#catBoost chash
+
+catboost_info/
+/catboost_info/*
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
