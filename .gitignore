@@ -169,9 +169,9 @@ cython_debug/
 *.csv
 
 #catBoost chash
-
 catboost_info/
-/catboost_info/*
+catboost_info/
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
