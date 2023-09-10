@@ -64,7 +64,15 @@ db.sqlite3-journal
 # Flask stuff:
 instance/
 .webassets-cache
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+=======
+practice
+>>>>>>> 8c56ead (some change)
+>>>>>>> 0d3cfba (some change)
 # Scrapy stuff:
 .scrapy
 
@@ -152,6 +160,16 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+# for csv file 
+*.csv
+
+>>>>>>> 8c56ead (some change)
+>>>>>>> 0d3cfba (some change)
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
